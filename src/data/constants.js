@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Pragati",
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I’m someone who loves learning new things and tackling challenges head-on. I’m always excited to grow and push myself to achieve the best results possible. With a positive attitude and an open mind, I believe I can make valuable contributions while continuously improving. I’m passionate about what I do and always look forward to making a meaningful impact, no matter the task.",
   github: "https://github.com/Pragati1466",
   resume:
     "https://drive.google.com/file/d/19tHwOm2HzgjYkQXeH_dQpyIpEiOBA48z/view?usp=drive_link",
