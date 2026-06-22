@@ -98,7 +98,7 @@ export const portfolioData: PortfolioData = {
       degree: "B.Tech — ECE with AI Specialization",
       institution: "Indira Gandhi Delhi Technical University for Women",
       period: "2023 — 2027",
-      cgpa: "9.13 / 10",
+      cgpa: "9.2 / 10",
       details: [
         "Electronics & Communication Engineering with AI specialization"
       ]
@@ -253,7 +253,7 @@ export const portfolioData: PortfolioData = {
   ],
 
   stats: [
-    { value: "9.13", label: "CGPA" },
+    { value: "9.2", label: "CGPA" },
     { value: "4+", label: "Projects Built" },
     { value: "5+", label: "Hackathons" },
     { value: "2", label: "Internships" }
